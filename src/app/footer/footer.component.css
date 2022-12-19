@@ -1,0 +1,25 @@
+.footer{
+  height: 50px;
+  background: rgb(0,0,0,0.35);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  bottom: 0;
+  margin-top: 50px;
+}
+p{
+  margin-bottom: 0;
+}
+
+a{
+  color: white !important;
+}
+
+a:hover{
+border-bottom: none;
+}
+
+img{
+  height: 32px;
+  width: 32px;
+}
